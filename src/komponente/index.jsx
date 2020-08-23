@@ -1,0 +1,6 @@
+export {Intro} from './intro'
+export {Nav, MobNav} from './navigacija'
+export {Header} from './header'
+export {Footer, Copyright} from './footer'
+export {Sadrzaj, GPost, Post, Postovi} from './sadrzaj'
+export {Slajder} from './slajder'
